@@ -18,5 +18,5 @@ const orgDomain = urlSite('org');
 const uaDomain = urlSite('ua');
 
 
-console.log(addFive(2) + '\n' + addTen(5));
-console.log(comDomain('youtube'))
+console.log(addFive(2) + '\n' + addTen(5)); // Your result: 7  |  Your result: 15
+console.log(comDomain('youtube')) // Your Website: https://youtube.com/
